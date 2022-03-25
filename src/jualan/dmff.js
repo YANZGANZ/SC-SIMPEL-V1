@@ -1,18 +1,28 @@
 exports.ff = (prefix) => {
 return `*- DIAMOND FREE FIRE*
 
-• 50💎 : 8.500
-• 70💎 : 12.000
-• 100💎 : 15.000
-• 140💎 : 21.500
-• 210💎 : 27.000
-• 355💎 : 49.000
-• 500💎 : 71.600
-• 720💎 : 92.000
-• 1075💎 : 138.300
-• 2.000💎 : 310.000
-MM : 35.200
-MB  : 147.000
+*PILIH DIBAWAH YA!!!*
+*LIST DM FF*
+*NO ILEGAL 100%*
+5.500 = 20💎
+9.500 = 50💎
+11.500 = 70💎
+17.500 = 100💎
+21.500 = 140💎
+32.500 = 210💎
+52.000 = 355💎
+77.500 = 510💎
+115.300 = 720💎
+210.300 = 1450💎
+311.200 = 2180💎
+510.600 = 3640💎
+1.050.100 = 17280💎
+*MM* : 29.999
+*MB*  : 146.500
 
-_*Minat chat wa.me/48699532476*_`
+*NB : ⚠️JIKA KAMU DM GAGAL MASUK/SALAH TULIS, ADMIN TIDAK BERTANGGUNG JAWAB⚠️*
+
+*⚙️PROSES : 5-30 MENIT, TERGANTUNG NOMOR ORDERAN*
+
+*minat? hub :* http://wa.me/48699532476`
 }

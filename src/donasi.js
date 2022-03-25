@@ -3,7 +3,7 @@ return `*- DONASI*
 
 • Gopay
 • Dana
-• Ovo
+• Pulsa
 • Qris allpay
 
 _Untuk info selanjutnya ketik_ *${prefix}payment*
